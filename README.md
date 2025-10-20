@@ -1,8 +1,5 @@
-## Hi 
 
-<!--
-**areebataqdeesmir/areebataqdeesmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 👋 Hi there, I'm Areeba Taqdees Mir
+# Areeba Taqdees Mir
 **BS Software Engineering Student | Aspiring Software Developer**
 
 🌟 I’m passionate about learning how software works from the inside out.  
